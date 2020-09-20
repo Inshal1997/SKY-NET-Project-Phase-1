@@ -1,0 +1,12 @@
+<br />
+<b>Notice</b>:  Undefined variable: path in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>151</b><br />
+<br />
+<b>Warning</b>:  mime_content_type(): Can only process string or stream arguments in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>151</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: path in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>159</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: path in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>160</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: path in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>163</b><br />
+<br />
+<b>Warning</b>:  readfile(): Filename cannot be empty in <b>C:\xampp\htdocs\DTS-Optimizing-portal\downloadfile.php</b> on line <b>163</b><br />

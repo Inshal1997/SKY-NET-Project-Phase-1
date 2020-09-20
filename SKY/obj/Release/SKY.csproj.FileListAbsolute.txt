@@ -1,0 +1,194 @@
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\SKY.exe.config
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\SKY.exe
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\SKY.pdb
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\MetroFramework.Design.dll
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\MetroFramework.dll
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.Dashboard.resources
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.Sky_net_splash.resources
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.states.resources
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.Properties.Resources.resources
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.csproj.GenerateResource.cache
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.csproj.CopyComplete
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.exe
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.pdb
+C:\Users\Iftikhar\Documents\SKY 22-01-2020\SKY 16-01-2020\SKY\obj\Release\SKY.csprojAssemblyReference.cache
+F:\SKY 16-01-2020\SKY\bin\Release\SKY.exe.config
+F:\SKY 16-01-2020\SKY\bin\Release\SKY.exe
+F:\SKY 16-01-2020\SKY\bin\Release\SKY.pdb
+F:\SKY 16-01-2020\SKY\bin\Release\MetroFramework.Design.dll
+F:\SKY 16-01-2020\SKY\bin\Release\MetroFramework.dll
+F:\SKY 16-01-2020\SKY\bin\Release\MetroFramework.Fonts.dll
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.csprojAssemblyReference.cache
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.Dashboard.resources
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.Sky_net_splash.resources
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.states.resources
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.Properties.Resources.resources
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.csproj.GenerateResource.cache
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.csproj.CopyComplete
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.exe
+F:\SKY 16-01-2020\SKY\obj\Release\SKY.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\Interop.NATUPNPLib.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\Interop.NETCONLib.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\Interop.NetFwTypeLib.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.csproj.ResolveComReference.cache
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.About_Control.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.AMD_Stats_Controls.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.DownloadMiner.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.Login_Form.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.Nvidia_Stats_Controls.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.Splash.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.controls.Support_Control.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.Dashboard.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.Setting_control.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.Properties.Resources.resources
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.csproj.GenerateResource.cache
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.csproj.CoreCompileInputs.cache
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.exe
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\SKY.exe.config
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\SKY.exe
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\SKY.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\JMaterialTextbox.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\JMetroTextBox.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\JThinButton.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.WinForms.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.Wpf.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\MetroFramework.Design.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\MetroFramework.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\MetroFramework.Fonts.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.xml
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.WinForms.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.WinForms.xml
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.Wpf.pdb
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\LiveCharts.Wpf.xml
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.csproj.CopyComplete
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\Newtonsoft.Json.dll
+D:\Office work\Sky Net with user control 14 April 2020\SKY\bin\Release\Newtonsoft.Json.xml
+D:\Office work\Sky Net with user control 14 April 2020\SKY\obj\Release\SKY.csprojAssemblyReference.cache
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\SKY.exe.config
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\SKY.exe
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\SKY.pdb
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\JMaterialTextbox.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\JMetroTextBox.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\JThinButton.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.WinForms.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.Wpf.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\MetroFramework.Design.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\MetroFramework.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\MetroFramework.Fonts.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\Newtonsoft.Json.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.pdb
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.xml
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.WinForms.pdb
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.WinForms.xml
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.Wpf.pdb
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\LiveCharts.Wpf.xml
+D:\Office work\Sky Net with user control 16 April 2020\SKY\bin\Release\Newtonsoft.Json.xml
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.csprojAssemblyReference.cache
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\Interop.NATUPNPLib.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\Interop.NETCONLib.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\Interop.NetFwTypeLib.dll
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.csproj.ResolveComReference.cache
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.About_Control.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.AMD_Stats_Controls.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.DownloadMiner.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.Login_Form.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.Nvidia_Stats_Controls.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.Splash.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.controls.Support_Control.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.Dashboard.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.Setting_control.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.Properties.Resources.resources
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.csproj.GenerateResource.cache
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.csproj.CoreCompileInputs.cache
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.csproj.CopyComplete
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.exe
+D:\Office work\Sky Net with user control 16 April 2020\SKY\obj\Release\SKY.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\SKY.exe.config
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\SKY.exe
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\SKY.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\JMaterialTextbox.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\JMetroTextBox.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\JThinButton.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.WinForms.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.Wpf.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\MetroFramework.Design.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\MetroFramework.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\MetroFramework.Fonts.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\Newtonsoft.Json.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.xml
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.WinForms.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.WinForms.xml
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.Wpf.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\LiveCharts.Wpf.xml
+D:\Office work\Sky Net with user control 17 April 2020\SKY\bin\Release\Newtonsoft.Json.xml
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\Interop.NATUPNPLib.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\Interop.NETCONLib.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\Interop.NetFwTypeLib.dll
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.csproj.ResolveComReference.cache
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.About_Control.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.AMD_Stats_Controls.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.DownloadMiner.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.Login_Form.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.Nvidia_Stats_Controls.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.Splash.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.controls.Support_Control.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.Dashboard.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.Setting_control.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.Properties.Resources.resources
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.csproj.GenerateResource.cache
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.csproj.CoreCompileInputs.cache
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.csproj.CopyComplete
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.exe
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.pdb
+D:\Office work\Sky Net with user control 17 April 2020\SKY\obj\Release\SKY.csprojAssemblyReference.cache
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\SKY.exe.config
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\Interop.NATUPNPLib.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\Interop.NETCONLib.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.csproj.ResolveComReference.cache
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.exe
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.pdb
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.csprojResolveAssemblyReference.cache
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.About_Control.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.AMD_Stats_Controls.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.coin_confirm.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.DownloadMiner.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.Login_Form.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.Miner_Setting_popup.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.Nvidia_Stats_Controls.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.reboot_popup.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.Splash.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.controls.Support_Control.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.Dashboard.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.Setting_control.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.Properties.Resources.resources
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.csproj.GenerateResource.Cache
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\SKY.exe
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\SKY.pdb
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\JMaterialTextbox.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\JMetroTextBox.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\JThinButton.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\MetroFramework.Design.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\MetroFramework.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\Newtonsoft.Json.dll
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.pdb
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.xml
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\bin\Release\Newtonsoft.Json.xml
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.TrustInfo.xml
+C:\Users\Inshal\Desktop\Sky Net 9 july 2020\SKY\obj\Release\SKY.exe.manifest

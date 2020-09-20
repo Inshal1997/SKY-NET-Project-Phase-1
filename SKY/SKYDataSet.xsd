@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SKYDataSet" targetNamespace="http://tempuri.org/SKYDataSet.xsd" xmlns:mstns="http://tempuri.org/SKYDataSet.xsd" xmlns="http://tempuri.org/SKYDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SKYConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SKYConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SKY.Properties.Settings.GlobalReference.Default.SKYConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Nvidia_GpuDataTableAdapter" GeneratorDataComponentClassName="Nvidia_GpuDataTableAdapter" Name="Nvidia_GpuData" UserDataComponentName="Nvidia_GpuDataTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SKYConnectionString (Settings)" DbObjectName="SKY.dbo.Nvidia_GpuData" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Hashrate, name, GPUutil, tempminer, fanspeed, memutil, power FROM dbo.Nvidia_GpuData</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Hashrate" DataSetColumn="Hashrate" />
+              <Mapping SourceColumn="name" DataSetColumn="name" />
+              <Mapping SourceColumn="GPUutil" DataSetColumn="GPUutil" />
+              <Mapping SourceColumn="tempminer" DataSetColumn="tempminer" />
+              <Mapping SourceColumn="fanspeed" DataSetColumn="fanspeed" />
+              <Mapping SourceColumn="memutil" DataSetColumn="memutil" />
+              <Mapping SourceColumn="power" DataSetColumn="power" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SKYDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SKYDataSet" msprop:Generator_UserDSName="SKYDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Nvidia_GpuData" msprop:Generator_TableClassName="Nvidia_GpuDataDataTable" msprop:Generator_TableVarName="tableNvidia_GpuData" msprop:Generator_TablePropName="Nvidia_GpuData" msprop:Generator_RowDeletingName="Nvidia_GpuDataRowDeleting" msprop:Generator_RowChangingName="Nvidia_GpuDataRowChanging" msprop:Generator_RowEvHandlerName="Nvidia_GpuDataRowChangeEventHandler" msprop:Generator_RowDeletedName="Nvidia_GpuDataRowDeleted" msprop:Generator_UserTableName="Nvidia_GpuData" msprop:Generator_RowChangedName="Nvidia_GpuDataRowChanged" msprop:Generator_RowEvArgName="Nvidia_GpuDataRowChangeEvent" msprop:Generator_RowClassName="Nvidia_GpuDataRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Hashrate" msprop:Generator_ColumnVarNameInTable="columnHashrate" msprop:Generator_ColumnPropNameInRow="Hashrate" msprop:Generator_ColumnPropNameInTable="HashrateColumn" msprop:Generator_UserColumnName="Hashrate" type="xs:double" minOccurs="0" />
+              <xs:element name="name" msprop:Generator_ColumnVarNameInTable="columnname" msprop:Generator_ColumnPropNameInRow="name" msprop:Generator_ColumnPropNameInTable="nameColumn" msprop:Generator_UserColumnName="name" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GPUutil" msprop:Generator_ColumnVarNameInTable="columnGPUutil" msprop:Generator_ColumnPropNameInRow="GPUutil" msprop:Generator_ColumnPropNameInTable="GPUutilColumn" msprop:Generator_UserColumnName="GPUutil" type="xs:double" minOccurs="0" />
+              <xs:element name="tempminer" msprop:Generator_ColumnVarNameInTable="columntempminer" msprop:Generator_ColumnPropNameInRow="tempminer" msprop:Generator_ColumnPropNameInTable="tempminerColumn" msprop:Generator_UserColumnName="tempminer" type="xs:double" minOccurs="0" />
+              <xs:element name="fanspeed" msprop:Generator_ColumnVarNameInTable="columnfanspeed" msprop:Generator_ColumnPropNameInRow="fanspeed" msprop:Generator_ColumnPropNameInTable="fanspeedColumn" msprop:Generator_UserColumnName="fanspeed" type="xs:double" minOccurs="0" />
+              <xs:element name="memutil" msprop:Generator_ColumnVarNameInTable="columnmemutil" msprop:Generator_ColumnPropNameInRow="memutil" msprop:Generator_ColumnPropNameInTable="memutilColumn" msprop:Generator_UserColumnName="memutil" type="xs:double" minOccurs="0" />
+              <xs:element name="power" msprop:Generator_ColumnVarNameInTable="columnpower" msprop:Generator_ColumnPropNameInRow="power" msprop:Generator_ColumnPropNameInTable="powerColumn" msprop:Generator_UserColumnName="power" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
